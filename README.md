@@ -4,17 +4,29 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📁 Estructura del proyecto
 
-IA-Child-Grooming/ 
-├── DataSets/ 
-  ├── pan12-sexual-predator-identification-training-corpus-2012-05-01.xml │ 
-  ├── pan12-sexual-predator-identification-test-corpus-2012-05-17.xml │  
-├── CargarDataSet.py # Script para convertir los XML a CSV 
-├── Modelo_IA.ipynb # Entrenamiento de modelos clásicos (NB, SVM, RF) 
-├── Modelo_IA_BERT.ipynb # Entrenamiento del modelo BERT 
-└── README.md # Este archivo
-(ATENCIÓN: aquí se describe donde se situa la carpeta donde colocar los datos descargados de PAN12)
+- `DataSets/` 
+  Carpeta donde deben colocarse manualmente los datasets PAN12 descargados:
+  - `pan12-sexual-predator-identification-training-corpus-2012-05-01.xml`
+  - `pan12-sexual-predator-identification-test-corpus-2012-05-17.xml`
+  - Otros archivos relacionados
+
+- `CargarDataSet.py`   
+  Script para convertir los archivos XML en CSV.
+
+- `Modelo_IA.ipynb` 
+  Notebook para entrenar los modelos clásicos: Naïve Bayes, SVM y Random Forest.
+
+- `Modelo_IA_BERT.ipynb`  
+  Notebook para entrenar el modelo basado en la arquitectura BERT.
+
+- `requirements.txt` 
+  Lista de dependencias necesarias para ejecutar el proyecto.
+
+- `README.md` 
+  Documentación del proyecto.
+
 ---
 
 ## ⚙️ Requisitos
