@@ -23,7 +23,6 @@ env/
 *.pt
 *.bin
 *.csv
-*.txt
 
 # Resultados de entrenamiento
 /results_bert/
