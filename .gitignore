@@ -22,6 +22,7 @@ env/
 *.h5
 *.pt
 *.bin
+*.csv
 
 # Resultados de entrenamiento
 /results_bert/
@@ -39,3 +40,4 @@ datasets/
 
 # Resultados de los test
 resultados_*.csv
+
