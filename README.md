@@ -8,14 +8,13 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 IA-Child-Grooming/ 
 ├── DataSets/ 
-# Carpeta donde colocar los datos descargados de PAN12 │ 
   ├── pan12-sexual-predator-identification-training-corpus-2012-05-01.xml │ 
   ├── pan12-sexual-predator-identification-test-corpus-2012-05-17.xml │  
 ├── CargarDataSet.py # Script para convertir los XML a CSV 
 ├── Modelo_IA.ipynb # Entrenamiento de modelos clásicos (NB, SVM, RF) 
 ├── Modelo_IA_BERT.ipynb # Entrenamiento del modelo BERT 
 └── README.md # Este archivo
-
+(ATENCIÓN: aquí se describe donde se situa la carpeta donde colocar los datos descargados de PAN12)
 ---
 
 ## ⚙️ Requisitos
