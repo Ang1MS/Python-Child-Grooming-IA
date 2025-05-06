@@ -1,0 +1,41 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de configuración o entornos
+*.env
+.venv/
+env/
+*.egg-info/
+
+# Archivos de datos grandes o salidas de modelos
+*.tsv
+*.log
+*.json
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.bin
+
+# Resultados de entrenamiento
+/results_bert/
+logs/
+*.ckpt
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas generadas por HuggingFace
+cache/
+datasets/
+*.lock
+
+# Resultados de los test
+resultados_*.csv
