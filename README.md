@@ -32,7 +32,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 ## Requisitos
 
 - Python 3.8+
-- Jupyter Notebook o Google Colab
+- Jupyter Notebook
 
 ---
 
