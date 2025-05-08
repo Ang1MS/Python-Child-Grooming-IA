@@ -71,7 +71,7 @@ Abre el notebook `Modelo_IA_BERT.ipynb` para entrenar el modelo basado en la arq
 
 > ⚠️ **Nota importante**  
 > Debido a las restricciones de tamaño de archivos en GitHub, **los datasets PAN12 no están incluidos en este repositorio**.  
-> El usuario debe descargarlos manualmente y colocarlos en la carpeta `DataSets`.
+> Es  necesario descargarlos manualmente y colocarlos en la carpeta `DataSets`.
 
 ---
 
