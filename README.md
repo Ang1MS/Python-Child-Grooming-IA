@@ -10,7 +10,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
   Carpeta donde deben colocarse manualmente los datasets PAN12 descargados:
   - `pan12-sexual-predator-identification-training-corpus-2012-05-01.xml`
   - `pan12-sexual-predator-identification-test-corpus-2012-05-17.xml`
-  - Otros archivos relacionados
+
 
 - `CargarDataSet.py`   
   Script para convertir los archivos XML en CSV.
