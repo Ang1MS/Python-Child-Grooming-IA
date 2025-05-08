@@ -40,7 +40,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 ### 1. Descargar el Dataset PAN12
 
-- Visita: [https://pan.webis.de/clef12/pan12-web/sexual-predator-identification.html](https://pan.webis.de/clef12/pan12-web/sexual-predator-identification.html)
+- Visita: [https://zenodo.org/records/3713280](https://zenodo.org/records/3713280)
 - Descarga los archivos XML correspondientes al corpus de entrenamiento y prueba.
 - Crea una carpeta en la raíz del proyecto llamada `DataSets/` y colócalos dentro.
 
