@@ -10,7 +10,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
   Carpeta donde deben colocarse manualmente los datasets PAN12 descargados:
   - `pan12-sexual-predator-identification-training-corpus-2012-05-01.xml`
   - `pan12-sexual-predator-identification-test-corpus-2012-05-17.xml`
-  - Otros archivos relacionados
+
 
 - `CargarDataSet.py`   
   Script para convertir los archivos XML en CSV.
@@ -32,7 +32,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 ## Requisitos
 
 - Python 3.8+
-- Jupyter Notebook o Google Colab
+- Jupyter Notebook
 
 ---
 
@@ -40,7 +40,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 ### 1. Descargar el Dataset PAN12
 
-- Visita: [https://pan.webis.de/clef12/pan12-web/sexual-predator-identification.html](https://pan.webis.de/clef12/pan12-web/sexual-predator-identification.html)
+- Visita: [https://zenodo.org/records/3713280](https://zenodo.org/records/3713280)
 - Descarga los archivos XML correspondientes al corpus de entrenamiento y prueba.
 - Crea una carpeta en la raíz del proyecto llamada `DataSets/` y colócalos dentro.
 
@@ -71,7 +71,7 @@ Abre el notebook `Modelo_IA_BERT.ipynb` para entrenar el modelo basado en la arq
 
 > ⚠️ **Nota importante**  
 > Debido a las restricciones de tamaño de archivos en GitHub, **los datasets PAN12 no están incluidos en este repositorio**.  
-> El usuario debe descargarlos manualmente y colocarlos en la carpeta `DataSets`.
+> Es  necesario descargarlos manualmente y colocarlos en la carpeta `DataSets`.
 
 ---
 
