@@ -4,7 +4,7 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 - `DataSets/` 
   Carpeta donde deben colocarse manualmente los datasets PAN12 descargados:
@@ -29,14 +29,14 @@ Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) centrado en la d
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Python 3.8+
 - Jupyter Notebook o Google Colab
 
 ---
 
-## 🧾 Instrucciones
+## Instrucciones
 
 ### 1. Descargar el Dataset PAN12
 
